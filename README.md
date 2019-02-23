@@ -8,7 +8,7 @@
 템플렛 및 정보를 제공해주신 윗 두분께 감사의 인사를 올립니다.
 
 ### Structure 
-####[from this reference](https://zzsza.github.io)
+###[from this reference](https://zzsza.github.io)
 - 다른 분들이 이 테마를 Fork할 경우, 사용할 수 있도록 블로그 구조에 대해 설명합니다
 
 ```
