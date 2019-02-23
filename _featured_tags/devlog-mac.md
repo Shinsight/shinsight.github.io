@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Infra
-slug: infra
+title: ML
+slug: ml
 category: devlog
 menu: false
-order: 2
+order: 1
 ---
