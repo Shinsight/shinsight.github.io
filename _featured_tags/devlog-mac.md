@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: ML
-slug: ml
+title: MAC
+slug: mac
 category: devlog
 menu: false
 order: 1
